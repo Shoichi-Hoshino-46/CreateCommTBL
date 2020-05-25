@@ -4,7 +4,7 @@
 \usage{
 cal_comm(qx,i)
 }
-\argument{
+\arguments{
 \item{qx}{vector of mortality}
 
 \item{i}{scalar of interest rate}
